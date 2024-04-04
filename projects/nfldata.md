@@ -8,11 +8,17 @@ The project itself was split into 4 smaller projects:
 4. Win Percentage Breakdown  
 
 ### Weekly and Yearly Team Rankings
-This sub-project involved using general data from the 2023 NFL season to objectively track the rankings of teams based on EPA/play (Expected points added per play) on Offense, Defense, and Overall.
+This sub-project involves using general data from the 2023 NFL season to objectively track the rankings of teams based on EPA/play (Expected points added per play) on Offense, Defense, and Overall.
 EPA/play is basically how successful a given play is where a positive number is good and and a negative number is bad.
 The data for the Weekly Team Rankings chart is independent for each week (where each week is one game). In games where the team has a bye week (the team did not play), they where removed from the week.
 The data for the Yearly Team Rankings chart is dependent on the previous weeks and so the EPA/play is added each week.
 Below are a few example charts:  
+<img src="WeeklyOffensiveRankings.png" width="333">
+<img src="WeeklyDefensiveRankings.png" width="333">
+<img src="OverallTeamRankings.png" width="333">
+  
+### Matchup Calculator
+This sub-project involves using 2023 NFL data to compare multiple factors of two teams such as: Ability to rush, ability to defend the rush, ability to pass, ability to defend the pass, and ability to score touchdowns when in the Redzone (20 yards or closer to the endzone). The data also uses EPA/play to measure each teams ability in each rushing and passing category. Before the chart is printed, the user is requested to enter two teams. Below is an example comparison between the Los Angeles Chargers and the Las Vegas Raiders.
 
 
  
