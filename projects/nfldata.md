@@ -24,6 +24,9 @@ This sub-project involves using 2023 NFL data to compare multiple factors of two
 </p>
   
 ### Visual Game Breakdown
-
+This sub-project is a tool to visualize the game flow of any NFL game (Regular season or playoffs) since 2000. The user is prompted to enter in two teams and a year they played. If the teams played multiple times that year the user is then prompted to select the specific game. Below is an example of a game between the Kansas City Chiefs and the Baltimore Ravens in Week 3 of the 2019 season.  
+<p align="center">
+  <img src="TeamMatchupCalc.png" width="600"/>
+</p>
 
  
