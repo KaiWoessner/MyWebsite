@@ -7,7 +7,7 @@ The project itself was split into 4 smaller projects:
 3. Visual Game Breakdown
 4. Win Percentage Breakdown  
 
-### Weekly and Yearly Team Rankings
+### Weekly and Yearly Team Rankings <a name="weekly_and_yearly_team_rankings"></a>
 This sub-project involves using general data from the 2023 NFL season to objectively track the rankings of teams based on EPA/play (Expected points added per play) on Offense, Defense, and Overall.
 EPA/play is basically how successful a given play is where a positive number is good and and a negative number is bad.
 The data for the Weekly Team Rankings chart is independent for each week (where each week is one game). In games where the team has a bye week (the team did not play), they where removed from the week.
@@ -17,7 +17,7 @@ Below are a few example charts:
 <img src="WeeklyDefensiveRankings.png" width="333">
 <img src="OverallTeamRankings.png" width="333">
   
-### Matchup Calculator
+### Matchup Calculator <a name="matchup_calculator"></a>
 This sub-project involves using 2023 NFL data to compare multiple factors of two teams such as: Ability to rush, ability to defend the rush, ability to pass, ability to defend the pass, and ability to score touchdowns when in the Redzone (20 yards or closer to the endzone). The data also uses EPA/play to measure each teams ability in each rushing and passing category. Before the chart is printed, the user is requested to enter two teams. Below is an example comparison between the Los Angeles Chargers and the Las Vegas Raiders.
 <p align="center">
   <img src="TeamMatchupCalc.png" width="600"/>
@@ -26,7 +26,7 @@ This sub-project involves using 2023 NFL data to compare multiple factors of two
 ### Visual Game Breakdown
 This sub-project is a tool to visualize the game flow of any NFL game (Regular season or playoffs) since 2000. The user is prompted to enter in two teams and a year they played. If the teams played multiple times that year the user is then prompted to select the specific game. Below is an example of a game between the Kansas City Chiefs and the Baltimore Ravens in Week 3 of the 2019 season.  
 <p align="center">
-  <img src="TeamMatchupCalc.png" width="600"/>
+  <img src="VisualBreakdown.png" width="600"/>
 </p>
 
  
