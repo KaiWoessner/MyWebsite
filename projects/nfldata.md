@@ -2,8 +2,8 @@
 In this project I processed diverse datasets and constructed graphs to visualize the performance of players and teams in the National Football League (NFL) using Google Colab.
 This project uses data from the Python library `nfl_data_py`.
 The project itself was split into 4 smaller projects:
-1. Weekly and Yearly Team Rankings
-2. Matchup Calculator
+1. [Weekly and Yearly Team Rankings](weekly-and-yearly-team-rankings)
+2. [Matchup Calculator](matchup_calculator)
 3. Visual Game Breakdown
 4. Win Percentage Breakdown  
 
@@ -19,6 +19,11 @@ Below are a few example charts:
   
 ### Matchup Calculator
 This sub-project involves using 2023 NFL data to compare multiple factors of two teams such as: Ability to rush, ability to defend the rush, ability to pass, ability to defend the pass, and ability to score touchdowns when in the Redzone (20 yards or closer to the endzone). The data also uses EPA/play to measure each teams ability in each rushing and passing category. Before the chart is printed, the user is requested to enter two teams. Below is an example comparison between the Los Angeles Chargers and the Las Vegas Raiders.
+<p align="center">
+  <img src="TeamMatchupCalc.png" width="600"/>
+</p>
+  
+### Visual Game Breakdown
 
 
  
