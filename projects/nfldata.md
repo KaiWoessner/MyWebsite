@@ -2,8 +2,8 @@
 In this project I processed diverse datasets and constructed graphs to visualize the performance of players and teams in the National Football League (NFL) using Google Colab.
 This project uses data from the Python library `nfl_data_py`.
 The project itself was split into 4 smaller projects:
-1. [Weekly and Yearly Team Rankings](weekly-and-yearly-team-rankings)
-2. [Matchup Calculator](matchup_calculator)
+1. [Weekly and Yearly Team Rankings](weekly_and_yearly_team_rankings)
+2. [Matchup Calculator](#matchup_calculator)
 3. Visual Game Breakdown
 4. Win Percentage Breakdown  
 
