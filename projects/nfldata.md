@@ -6,7 +6,7 @@ The project itself was split into 4 smaller projects along with many miscellaneo
 2. [Matchup Calculator](#matchup_calculator)
 3. [Visual Game Breakdown](#visual_game_breakdown)
 4. [Win Percentage Breakdown](#win_percentage_breakdown)
-5. [Miscellaneous_Graphs](#miscellaneous_graphs)
+5. [Miscellaneous Graphs](#miscellaneous_graphs)
 
 ### Weekly and Yearly Team Rankings <a name="weekly_and_yearly_team_rankings"></a>
 This sub-project involves using general data from the 2023 NFL season to objectively track the rankings of teams based on EPA/play (Expected points added per play) on Offense, Defense, and Overall.
