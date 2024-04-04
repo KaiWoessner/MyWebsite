@@ -1,11 +1,12 @@
 ## National Football League Data Analysis
 In this project I processed diverse datasets and constructed graphs to visualize the performance of players and teams in the National Football League (NFL) using Google Colab.
 This project uses data from the Python library `nfl_data_py`.
-The project itself was split into 4 smaller projects:
+The project itself was split into 4 smaller projects along with many miscellaneous graphs:
 1. [Weekly and Yearly Team Rankings](#weekly_and_yearly_team_rankings)
 2. [Matchup Calculator](#matchup_calculator)
 3. [Visual Game Breakdown](#visual_game_breakdown)
 4. [Win Percentage Breakdown](#win_percentage_breakdown)
+5. [Miscellaneous_Graphs](#miscellaneous_graphs)
 
 ### Weekly and Yearly Team Rankings <a name="weekly_and_yearly_team_rankings"></a>
 This sub-project involves using general data from the 2023 NFL season to objectively track the rankings of teams based on EPA/play (Expected points added per play) on Offense, Defense, and Overall.
@@ -30,9 +31,16 @@ This sub-project is a tool to visualize the game flow of any NFL game (Regular s
 </p>
 
 ### Win Percentage Breakdown <a name="win_percentage_breakdown"></a>
-This sub-project is intended to visual the win percentage of past NFL games. Similarly to the Visual Game Breakdown, the user is prompted to enter a past game. Below is an example of a game between the Cleveland Browns and the Indianapolis Colts in Week 7 of the 2023 Season.  
+This sub-project is intended to visualize the win percentage of past NFL games. Similarly to the Visual Game Breakdown, the user is prompted to enter a past game. Below is an example of a game between the Cleveland Browns and the Indianapolis Colts in Week 7 of the 2023 Season.  
 <p align="center">
-  <img src="VisualBreakdown.png" width="600"/>
+  <img src="WPBreakdown.png" width="600"/>
 </p>
+
+### Miscellaneous Graphs <a name="miscellaneous_graphs"></a>
+Aside from the other defined projects I created many other single graphs to analyze specific trends and players. Below is a few examples of these graphs:  
+<p align="center">
+  <img src="WPBreakdown.png" width="600"/>
+</p>
+
 
  
