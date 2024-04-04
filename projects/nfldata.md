@@ -4,8 +4,8 @@ This project uses data from the Python library `nfl_data_py`.
 The project itself was split into 4 smaller projects:
 1. [Weekly and Yearly Team Rankings](#weekly_and_yearly_team_rankings)
 2. [Matchup Calculator](#matchup_calculator)
-3. Visual Game Breakdown
-4. Win Percentage Breakdown  
+3. [Visual Game Breakdown](#visual_game_breakdown)
+4. [Win Percentage Breakdown](#win_percentage_breakdown)
 
 ### Weekly and Yearly Team Rankings <a name="weekly_and_yearly_team_rankings"></a>
 This sub-project involves using general data from the 2023 NFL season to objectively track the rankings of teams based on EPA/play (Expected points added per play) on Offense, Defense, and Overall.
@@ -23,8 +23,14 @@ This sub-project involves using 2023 NFL data to compare multiple factors of two
   <img src="TeamMatchupCalc.png" width="600"/>
 </p>
   
-### Visual Game Breakdown
+### Visual Game Breakdown <a name="visual_game_breakdown"></a>
 This sub-project is a tool to visualize the game flow of any NFL game (Regular season or playoffs) since 2000. The user is prompted to enter in two teams and a year they played. If the teams played multiple times that year the user is then prompted to select the specific game. Below is an example of a game between the Kansas City Chiefs and the Baltimore Ravens in Week 3 of the 2019 season.  
+<p align="center">
+  <img src="VisualBreakdown.png" width="600"/>
+</p>
+
+### Win Percentage Breakdown <a name="win_percentage_breakdown"></a>
+This sub-project is intended to visual the win percentage of past NFL games. Similarly to the Visual Game Breakdown, the user is prompted to enter a past game. Below is an example of a game between the Cleveland Browns and the Indianapolis Colts in Week 7 of the 2023 Season.  
 <p align="center">
   <img src="VisualBreakdown.png" width="600"/>
 </p>
