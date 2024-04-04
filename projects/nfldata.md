@@ -39,7 +39,9 @@ This sub-project is intended to visualize the win percentage of past NFL games. 
 ### Miscellaneous Graphs <a name="miscellaneous_graphs"></a>
 Aside from the other defined projects I created many other single graphs to analyze specific trends and players. Below is a few examples of these graphs:  
 <p align="center">
-  <img src="WPBreakdown.png" width="600"/>
+  <img src="RunLocation.png" width="600"/>
+  <img src="GoToTarget.png" width="600"/>
+  <img src="RedzoneEff.png" width="600"/>
 </p>
 
 
