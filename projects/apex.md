@@ -13,8 +13,8 @@ This also means looking at where the most congested areas of the map are.
 Another goal of the project was to find which weapons are overrated or underrated.  
 
 Below are a few of our graphs:  
-<img src="DropLocation.png" width="500"/>
-<img src="ApexOverUnder.png" width="500"/>
-<img src="ApexUse.png" width="500"/>
-<img src="ApexHeatMap.png" width="500"/>
+<img src="DropLocation.png" width="400"/>
+<img src="ApexOverUnder.png" width="400"/>
+<img src="ApexUse.png" width="400"/>
+<img src="ApexHeatMap.png" width="400"/>
 
