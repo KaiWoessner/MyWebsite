@@ -1,6 +1,6 @@
 ## National Football League Data Analysis
 In this project I processed diverse datasets and constructed graphs to visualize the performance of players and teams in the National Football League (NFL) using Google Colab.
-This project uses data from the Python library `nfl_data_py`.
+This project uses data from the Python library `nfl_data_py`. Here is a link to the library documentation: [`nfl_data_py`](https://pypi.org/project/nfl-data-py/).  
 The project itself was split into 4 smaller projects along with many miscellaneous graphs:
 1. [Weekly and Yearly Team Rankings](#weekly_and_yearly_team_rankings)
 2. [Matchup Calculator](#matchup_calculator)
