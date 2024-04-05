@@ -1,7 +1,8 @@
 # Kainoa's User Page
+![](MePic.png)  
 ### Who Am I?
-Hello! My name is Kainoa Woessner. I am a 2nd year Computer Engineering student at UC San Diego. I grew up 30 minutes away in Oceanside and enjoy _mountain biking_, **hiking**, and the **_beach_**.
-![]()
+Hello! My name is Kainoa Woessner. I am a 2nd year Computer Engineering student at UC San Diego. I grew up 30 minutes away in Oceanside and enjoy _mountain biking_, **hiking**, and the **_beach_**.  
+  
 A common grocery list for me is:
 - [x] Peanut Butter
 - [ ] Apples
