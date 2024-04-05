@@ -9,6 +9,9 @@ A common grocery list for me is:
 - [ ] Milk
 - [ ] Bread
 
+My favorite quote is:
+> "Anyone who has never made a mistake has never tried anything new." - Albert Einstein
+
 ### Some of My Projects
 - **[National Football League (NFL) Data Analysis](projects/nfldata.md)**
 - **[Machine Learning Playlist Recommender](projects/playlist.md)**
