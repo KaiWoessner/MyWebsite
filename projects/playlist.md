@@ -11,7 +11,7 @@ The song traits analyzed are:
 - Tempo
 - Dancibility
   
-The `Spotify API` is used to connect the computer to the user's Spotify account. 
+The `Spotify API` is used to connect the computer to the user's Spotify account (Here is a link to the documenation: [Spotify API Documentation](https://developer.spotify.com/documentation/web-api).
 The built-in cosine similarity `Sklearn` machine learning algorithm is then used to identify similar songs that the user likes or dislikes. 
 Cosine similarity measures the similarity of two vectors by calculating the angle between them. 
 If the second vector is identical to the first, the second vector is given a similarity score of 1 and if they are opposite, the second vector is given a similarity score of -1.
